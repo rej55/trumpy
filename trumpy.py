@@ -2,7 +2,7 @@
 
 import random
 
-class trumpy:
+class trump:
     deck = []
     hand = []
     discard = []
